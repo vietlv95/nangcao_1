@@ -13,6 +13,7 @@
 		35B79DA828117E5D003C812F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35B79DA628117E5D003C812F /* Main.storyboard */; };
 		35B79DAA28117E61003C812F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35B79DA928117E61003C812F /* Assets.xcassets */; };
 		35B79DAD28117E61003C812F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35B79DAB28117E61003C812F /* LaunchScreen.storyboard */; };
+		35B79DB528117E6C003C812F /* Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35B79DB428117E6C003C812F /* Student.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		35B79DA928117E61003C812F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		35B79DAC28117E61003C812F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		35B79DAE28117E61003C812F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		35B79DB428117E6C003C812F /* Student.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Student.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				35B79DA028117E5D003C812F /* AppDelegate.swift */,
 				35B79DA228117E5D003C812F /* SceneDelegate.swift */,
 				35B79DA428117E5D003C812F /* ViewController.swift */,
+				35B79DB428117E6C003C812F /* Student.swift */,
 				35B79DA628117E5D003C812F /* Main.storyboard */,
 				35B79DA928117E61003C812F /* Assets.xcassets */,
 				35B79DAB28117E61003C812F /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				35B79DA528117E5D003C812F /* ViewController.swift in Sources */,
 				35B79DA128117E5D003C812F /* AppDelegate.swift in Sources */,
 				35B79DA328117E5D003C812F /* SceneDelegate.swift in Sources */,
+				35B79DB528117E6C003C812F /* Student.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
